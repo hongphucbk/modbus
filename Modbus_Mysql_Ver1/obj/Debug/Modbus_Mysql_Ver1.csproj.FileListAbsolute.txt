@@ -1,0 +1,31 @@
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.exe.config
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.exe
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.pdb
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\EasyModbus.dll
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.Form1.resources
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.Properties.Resources.resources
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.csproj.GenerateResource.Cache
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.exe
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.pdb
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\MySql.Data.dll
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\Google.Protobuf.dll
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\bin\Debug\MySql.Data.xml
+D:\Wed_Scada\Modbus_Mysql_Ver1\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.csprojResolveAssemblyReference.cache
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.exe.config
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.exe
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.pdb
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.exe
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Modbus_Mysql_Ver1.pdb
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Google.Protobuf.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\MySql.Data.xml
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.csprojResolveAssemblyReference.cache
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.Form1.resources
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.Properties.Resources.resources
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\obj\Debug\Modbus_Mysql_Ver1.csproj.GenerateResource.Cache
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\EngineIoClientDotNet.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\MySql.Data.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Newtonsoft.Json.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\SocketIoClientDotNet.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\WebSocket4Net.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\BouncyCastle.Crypto.dll
+D:\100. Modbus\Modbus_Mysql_Ver2\Modbus_Mysql_Ver1\bin\Debug\Newtonsoft.Json.xml
